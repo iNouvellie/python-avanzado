@@ -11,20 +11,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="02_CicloEnCSV.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/03_CSV/02_CicloEnCSV.py">
+      <file leaf-file-name="03_LeerCSV.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/03_CSV/03_LeerCSV.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="20" column="92" selection-start-line="20" selection-start-column="92" selection-end-line="20" selection-end-column="92" />
+              <caret line="16" column="97" lean-forward="true" selection-start-line="16" selection-start-column="97" selection-end-line="16" selection-end-column="97" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="01_Creacion.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03_CSV/01_Creacion.py">
+      <file leaf-file-name="02_CicloEnCSV.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03_CSV/02_CicloEnCSV.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="15" selection-end-column="11" />
+            <state relative-caret-position="285">
+              <caret line="20" column="92" selection-start-line="20" selection-start-column="92" selection-end-line="20" selection-end-column="92" />
             </state>
           </provider>
         </entry>
@@ -56,10 +56,11 @@
         <option value="$PROJECT_DIR$/02_Modulos/03_Paquetes.py" />
         <option value="$PROJECT_DIR$/03_CSV/01_Creacion.py" />
         <option value="$PROJECT_DIR$/03_CSV/02_CicloEnCSV.py" />
+        <option value="$PROJECT_DIR$/03_CSV/03_LeerCSV.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-11" />
     <option name="width" value="980" />
     <option name="height" value="1031" />
@@ -104,7 +105,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.02_CicloEnCSV">
+  <component name="RunManager" selected="Python.03_LeerCSV">
     <configuration name="01_Creacion (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-avanzado" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -118,24 +119,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_CSV/01_Creacion.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="01_Creacion" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python-avanzado" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_Modulos" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_Modulos/01_Creacion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,6 +160,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="03_LeerCSV" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-avanzado" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_CSV" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_CSV/03_LeerCSV.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="03_Paquetes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-avanzado" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -196,19 +197,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.01_Creacion" />
       <item itemvalue="Python.02_Path" />
       <item itemvalue="Python.03_Paquetes" />
       <item itemvalue="Python.01_Creacion (1)" />
       <item itemvalue="Python.02_CicloEnCSV" />
+      <item itemvalue="Python.03_LeerCSV" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.03_LeerCSV" />
         <item itemvalue="Python.02_CicloEnCSV" />
         <item itemvalue="Python.01_Creacion (1)" />
         <item itemvalue="Python.03_Paquetes" />
         <item itemvalue="Python.02_Path" />
-        <item itemvalue="Python.01_Creacion" />
       </list>
     </recent_temporary>
   </component>
@@ -226,15 +227,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="653" height="687" extended-state="0" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25039124" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12490242" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3298611" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32534248" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Favorites" side_tool="true" />
@@ -329,8 +330,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/03_CSV/02_CicloEnCSV.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
+        <state relative-caret-position="285">
           <caret line="20" column="92" selection-start-line="20" selection-start-column="92" selection-end-line="20" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_CSV/03_LeerCSV.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="97" lean-forward="true" selection-start-line="16" selection-start-column="97" selection-end-line="16" selection-end-column="97" />
         </state>
       </provider>
     </entry>
