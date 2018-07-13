@@ -7,5 +7,4 @@
 * Interfaz gráfica.
 * Web.
 * Zen de Python.
-
 * WampServer with MySql (5.5.24)
