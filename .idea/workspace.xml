@@ -10,7 +10,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/05_InterfazGráfica/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="2" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -43,10 +53,11 @@
         <option value="$PROJECT_DIR$/04_MySQL/03_BorrarDato.py" />
         <option value="$PROJECT_DIR$/04_MySQL/04_SQLite.py" />
         <option value="$PROJECT_DIR$/04_MySQL/04_SQLite(curso-pausado).py" />
+        <option value="$PROJECT_DIR$/05_InterfazGráfica/main.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-11" />
     <option name="width" value="980" />
     <option name="height" value="1031" />
@@ -63,6 +74,16 @@
             <path>
               <item name="python-avanzado" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-avanzado" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-avanzado" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-avanzado" type="462c0819:PsiDirectoryNode" />
+              <item name="05_InterfazGráfica" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-avanzado" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-avanzado" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -209,13 +230,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="0" width="980" height="1031" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3298611" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32897604" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -295,13 +317,6 @@
     <entry file="file://$PROJECT_DIR$/01_Introducción/02_Ordenamiento.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/01_Introducción/01_FuncionYMetodo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/03_CSV/01_Creacion.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -345,10 +360,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/01_Introducción/01_FuncionYMetodo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/04_MySQL/01_InsertarDatos.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_InterfazGráfica/main.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret lean-forward="true" selection-end-line="3" />
+          <caret selection-end-line="2" selection-end-column="14" />
         </state>
       </provider>
     </entry>
