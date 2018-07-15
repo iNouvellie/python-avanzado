@@ -11,8 +11,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05_InterfazGráfica/main.py">
+      <file leaf-file-name="01_Ventana.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/05_InterfazGráfica/01_Ventana.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
               <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
@@ -20,13 +20,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="01_Ventana.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/05_InterfazGráfica/01_Ventana.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-            </state>
-          </provider>
+      <file leaf-file-name="03_Tamaño.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/05_InterfazGráfica/03_Tamaño.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="04_Constructor.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/05_InterfazGráfica/04_Constructor.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="05_Posición.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/05_InterfazGráfica/05_Posición.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="06_Menú.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/05_InterfazGráfica/06_Menú.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="07_MenúMejorado.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/05_InterfazGráfica/07_MenúMejorado.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -64,10 +80,15 @@
         <option value="$PROJECT_DIR$/04_MySQL/04_SQLite(curso-pausado).py" />
         <option value="$PROJECT_DIR$/05_InterfazGráfica/main.py" />
         <option value="$PROJECT_DIR$/05_InterfazGráfica/01_Ventana.py" />
+        <option value="$PROJECT_DIR$/05_InterfazGráfica/03_Tamaño.py" />
+        <option value="$PROJECT_DIR$/05_InterfazGráfica/04_Constructor.py" />
+        <option value="$PROJECT_DIR$/05_InterfazGráfica/05_Posición.py" />
+        <option value="$PROJECT_DIR$/05_InterfazGráfica/06_Menú.py" />
+        <option value="$PROJECT_DIR$/05_InterfazGráfica/07_MenúMejorado.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-11" />
     <option name="width" value="980" />
     <option name="height" value="1031" />
@@ -239,7 +260,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="0" width="980" height="1031" extended-state="0" />
+    <frame x="-11" y="0" width="980" height="1031" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -394,9 +415,24 @@
     <entry file="file://$PROJECT_DIR$/05_InterfazGráfica/01_Ventana.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_InterfazGráfica/03_Tamaño.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_InterfazGráfica/04_Constructor.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_InterfazGráfica/05_Posición.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_InterfazGráfica/06_Menú.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_InterfazGráfica/07_MenúMejorado.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
