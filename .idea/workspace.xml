@@ -11,15 +11,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="01_Ventana.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05_InterfazGráfica/01_Ventana.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="03_Tamaño.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/05_InterfazGráfica/03_Tamaño.py">
           <provider selected="true" editor-type-id="text-editor" />
@@ -50,8 +41,39 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="09_Login.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="09_Login.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/05_InterfazGráfica/09_Login.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="01_UrlLib2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/06_Scrapy/01_UrlLib2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02_BeautifulSoup.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/06_Scrapy/02_BeautifulSoup.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="03_Lectura.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/06_Scrapy/03_Lectura.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -97,10 +119,13 @@
         <option value="$PROJECT_DIR$/05_InterfazGráfica/07_MenúMejorado.py" />
         <option value="$PROJECT_DIR$/05_InterfazGráfica/08_LeerTexto.py" />
         <option value="$PROJECT_DIR$/05_InterfazGráfica/09_Login.py" />
+        <option value="$PROJECT_DIR$/06_Scrapy/01_UrlLib2.py" />
+        <option value="$PROJECT_DIR$/06_Scrapy/02_BeautifulSoup.py" />
+        <option value="$PROJECT_DIR$/06_Scrapy/03_Lectura.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-11" />
     <option name="width" value="980" />
     <option name="height" value="1031" />
@@ -122,6 +147,11 @@
               <item name="python-avanzado" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-avanzado" type="462c0819:PsiDirectoryNode" />
               <item name="05_InterfazGráfica" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-avanzado" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-avanzado" type="462c0819:PsiDirectoryNode" />
+              <item name="06_Scrapy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python-avanzado" type="b2602c69:ProjectViewProjectNode" />
@@ -272,7 +302,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="0" width="980" height="1031" extended-state="1" />
+    <frame x="-11" y="0" width="980" height="1031" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -450,6 +480,31 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/05_InterfazGráfica/09_Login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_Scrapy/01_UrlLib2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_Scrapy/02_BeautifulSoup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_Scrapy/03_Lectura.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
