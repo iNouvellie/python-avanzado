@@ -40,8 +40,18 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="07_MenúMejorado.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="07_MenúMejorado.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/05_InterfazGráfica/07_MenúMejorado.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="08_LeerTexto.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/05_InterfazGráfica/08_LeerTexto.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="09_Login.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/05_InterfazGráfica/09_Login.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -85,6 +95,8 @@
         <option value="$PROJECT_DIR$/05_InterfazGráfica/05_Posición.py" />
         <option value="$PROJECT_DIR$/05_InterfazGráfica/06_Menú.py" />
         <option value="$PROJECT_DIR$/05_InterfazGráfica/07_MenúMejorado.py" />
+        <option value="$PROJECT_DIR$/05_InterfazGráfica/08_LeerTexto.py" />
+        <option value="$PROJECT_DIR$/05_InterfazGráfica/09_Login.py" />
       </list>
     </option>
   </component>
@@ -432,6 +444,12 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/05_InterfazGráfica/07_MenúMejorado.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_InterfazGráfica/08_LeerTexto.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_InterfazGráfica/09_Login.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
